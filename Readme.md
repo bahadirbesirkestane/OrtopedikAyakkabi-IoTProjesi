@@ -1,1 +1,0 @@
-#Ortopedik Ayakkabı IoT Projesi
